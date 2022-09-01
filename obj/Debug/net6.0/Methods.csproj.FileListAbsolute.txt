@@ -1,0 +1,15 @@
+D:\GeekBrains\Lesson3_C#\Methods\obj\Debug\net6.0\Methods.csproj.AssemblyReference.cache
+D:\GeekBrains\Lesson3_C#\Methods\obj\Debug\net6.0\Methods.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\Lesson3_C#\Methods\obj\Debug\net6.0\Methods.AssemblyInfoInputs.cache
+D:\GeekBrains\Lesson3_C#\Methods\obj\Debug\net6.0\Methods.AssemblyInfo.cs
+D:\GeekBrains\Lesson3_C#\Methods\obj\Debug\net6.0\Methods.csproj.CoreCompileInputs.cache
+D:\GeekBrains\Lesson3_C#\Methods\bin\Debug\net6.0\Methods.exe
+D:\GeekBrains\Lesson3_C#\Methods\bin\Debug\net6.0\Methods.deps.json
+D:\GeekBrains\Lesson3_C#\Methods\bin\Debug\net6.0\Methods.runtimeconfig.json
+D:\GeekBrains\Lesson3_C#\Methods\bin\Debug\net6.0\Methods.dll
+D:\GeekBrains\Lesson3_C#\Methods\bin\Debug\net6.0\Methods.pdb
+D:\GeekBrains\Lesson3_C#\Methods\obj\Debug\net6.0\Methods.dll
+D:\GeekBrains\Lesson3_C#\Methods\obj\Debug\net6.0\refint\Methods.dll
+D:\GeekBrains\Lesson3_C#\Methods\obj\Debug\net6.0\Methods.pdb
+D:\GeekBrains\Lesson3_C#\Methods\obj\Debug\net6.0\Methods.genruntimeconfig.cache
+D:\GeekBrains\Lesson3_C#\Methods\obj\Debug\net6.0\ref\Methods.dll
